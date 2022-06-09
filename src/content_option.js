@@ -16,7 +16,7 @@ const introdata = {
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "About my self",
     aboutme: "I am a MERN Stack Web Developer. I love to build modern website using MERN approach.",
 };
 const worktimeline = [{
